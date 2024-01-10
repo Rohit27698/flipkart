@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fea289e.css",
+    "main.js": "/static/js/main.8774d632.js",
+    "static/js/787.39d7513c.chunk.js": "/static/js/787.39d7513c.chunk.js",
+    "static/media/user.svg": "/static/media/user.7e4bafc0cefdf1645d9b305c11d7fafb.svg",
+    "static/media/Vector.svg": "/static/media/Vector.d1a0c7b131200b83e120ba89d1430026.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Group.svg": "/static/media/Group.071e64c1bc2da3584eeacd4348926e1b.svg",
+    "static/media/energy.svg": "/static/media/energy.d48245789c3889847fb2023238dbc18d.svg",
+    "static/media/infoIcon.svg": "/static/media/infoIcon.8db1faf47fdb2f2ef406d9e95a179e37.svg",
+    "static/media/water.svg": "/static/media/water.95d944ea87316a5f20ba9044e7bcfbf4.svg",
+    "index.html": "/index.html",
+    "static/media/deleteIcon.svg": "/static/media/deleteIcon.3043be2d2d2caa742c482a6314c4034a.svg",
+    "static/media/dropdown.svg": "/static/media/dropdown.f09ad2adaf2dfd2711815c843a22f51e.svg",
+    "static/media/whitedropdown.svg": "/static/media/whitedropdown.37ff1fd1d21e01a2ac5973418c2ef841.svg",
+    "main.5fea289e.css.map": "/static/css/main.5fea289e.css.map",
+    "main.8774d632.js.map": "/static/js/main.8774d632.js.map",
+    "787.39d7513c.chunk.js.map": "/static/js/787.39d7513c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fea289e.css",
+    "static/js/main.8774d632.js"
+  ]
+}
